@@ -12,7 +12,7 @@ author_profile: true
 ---
 
 [Humana-Mays Health Analytics Case 2019 Competition - A Predictive Analysis Using Python](/Humana_May_Case_Competition.html)
-<img src="humana-mays.png?raw=true"/>
+<img src='images/humana-mays.png?'/>
 We predicted probability of long-term opioid use for 13,997 patients based on four-year medical records utilizing Python by conducting exploratory data analysis, data cleaning, feature engineering, and predictive modelling to enable Humana identify patients at risk for opioid overdoses and initiate intervention procedures, reaching prediction accuracy 87% and ranking in the 90th percentile of participants.
 
 ---
@@ -59,6 +59,7 @@ In this case study, my team utilize R to conduct linear regression, casual fores
 [Beer Case - NPV & Demand Analysis](/pdf/BeerCase.pdf)
 <img src="Beer Case.png?raw=true"/>
 In this case study, my team analyze a certain brand of beer's potential of opening new market by utilizing NPV and demand analysis.
+
 
 {% include base_path %}
 
