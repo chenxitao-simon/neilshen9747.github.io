@@ -9,12 +9,12 @@ author_profile: true
 ---
 
 [Humana-Mays Health Analytics Case 2019 Competition - A Predictive Analysis Using Python](/Humana_May_Case_Competition.html)
-<img src="images/humana-mays.png"/>
+<img src='images/humana-mays.png?raw=true'/>
 We predicted probability of long-term opioid use for 13,997 patients based on four-year medical records utilizing Python by conducting exploratory data analysis, data cleaning, feature engineering, and predictive modelling to enable Humana identify patients at risk for opioid overdoses and initiate intervention procedures, reaching prediction accuracy 87% and ranking in the 90th percentile of participants.
 
 ---
 [Kiwi Bubble VS Mango - Casual Analysis on Consumer Choice Data using Multilogit Choice Model](/pdf/PricingAnalyticsPJ2.pdf)
-<img src="images/PricingAnalyticsPJ2.png?raw=true"/>
+<img src='images/PricingAnalyticsPJ2.png?raw=true'/>
 My team conducted casual analysis on customer choice data by using multilogit choice model, and then we use k-mean clustering to segment customers and detect the nash equilibrium of Kiwi company and Mango company. Check our analytics process using R.
 
 ---
