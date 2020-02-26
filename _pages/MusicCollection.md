@@ -4,9 +4,11 @@ title: "Music Collection"
 permalink: /MusicCollection/
 author_profile: true
 ---
+
+
 |   	|   	|   	|
 |:-:	|:-:	|:-:	|
-|![](/images/Album/NFR.jpg)|   ![](/images/Album/Melodrama.jpg )	|  ![](/images/Album/21.jpg) 	|
+|![](/images/Album/NFR.jpg){:height="50%" width="50%"}|   ![](/images/Album/Melodrama.jpg){:height="50%" width="50%"}	|  ![](/images/Album/21.jpg){:height="50%" width="50%"} 	|
 |*Norman F____ Rockwell* 	|    *Melodrama*  	|     *21*	|
 |*Lana Del Rey*  	|    *Lorde* 	|    *Adele*  	|
 <!-- |![](/images/Album/19.jpg)|   ![](/images/Album/TUN.jpg )	|  ![](/images/Album/1989.jpg) 	|
