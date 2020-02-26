@@ -5,13 +5,10 @@ permalink: /MusicCollection/
 author_profile: true
 ---
 
-                           |                          |
-:-------------------------:|:------------------------:|:-------------------------:|
-![](/images/Album/Norman F_____g Rockwell!.jpg)   |  ![](/images/Album/Melodrama.jpg)    | ![](/images/Album/21.jpg)
-:-------------------------:|:------------------------:|:-------------------------:|
-Norman Fxxxxxx Rockwell    | Melodrama                | 21
-:-------------------------:|:------------------------:|:-------------------------:|
-Lana Del Rey               | Lorde                    | Adele 
+
+![](/images/Album/Norman20%F_____g20%Rockwell!.jpg)   ![](/images/Album/Melodrama.jpg)    ![](/images/Album/21.jpg)
+*Norman Fxxxxxx Rockwell*                             *Melodrama*                         *21
+*Lana Del Rey*                                        *Lorde*                             *Adele 
 
 
 {% if author.googlescholar %}
