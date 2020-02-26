@@ -28,7 +28,7 @@ author_profile: true
 |*Last Dance* 	|    *Lemonade*  	|     *极限*	|
 |*伍佰*  	|    *Beyonce* 	|    *徐佳莹*  	|
 |![](/images/Album/Lover.jpg)|   ![](/images/Album/LustforLife.jpg )	|  ![](/images/Album/LYTLM.jpg) 	|
-|*Lover 	|    *Lust for Life*  	|     *Lose You to Love Me*	|
+|*Lover* 	|    *Lust for Life*  	|     *Lose You to Love Me*	|
 |*Taylor Swift*  	|    *Lana Del Rey* 	|    *Selena Gomez*  	|
 |![](/images/Album/CL.jpg)|   ![](/images/Album/MAGDALENE.jpg )	|  ![](/images/Album/MASSEDUCTION.jpg) 	|
 |*Carrie & Lowell* 	|    *MAGDALENE*  	|     *MASSEDUCTION*	|
