@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-![](/images/Album/NFR.jpg){:height="20%" width="20%"} {:.image-caption} *Norman F____ Rockwell - Lana Del Rey* &nbsp; &nbsp;  ![](/images/Album/Melodrama.jpg){:height="20%" width="20%"} {:.image-caption} *Melodrama - Lorde* &nbsp; &nbsp;   ![](/images/Album/21.jpg){:height="20%" width="20%"} {:.image-caption} *21 - Adele*
+![](/images/Album/NFR.jpg){:height="20%" width="20%"} .caption[*Norman F____ Rockwell - Lana Del Rey*]  &nbsp; &nbsp;  ![](/images/Album/Melodrama.jpg){:height="20%" width="20%"} .caption[*Melodrama - Lorde*] &nbsp; &nbsp;   ![](/images/Album/21.jpg){:height="20%" width="20%"} .caption[*21 - Adele*]
 <!-- <br />Norman Fxxxxx Rockwell &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Melodrama &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 21
 <br />Lana Del Rey &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lorde &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Adele  -->
 
