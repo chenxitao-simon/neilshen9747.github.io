@@ -9,14 +9,7 @@ author_profile: true
 | ![](/images/Album/NFR.jpg)  	|  ![](/images/Album/Melodrama.jpg) 	|  ![](/images/Album/21.jpg) 	|
 |  *Norman F____ Rockwell* 	|  *Melodrama* 	|  *21* 	|
 |  *Lana Del Rey* 	|  *Lorde* 	| *Adele*  	|
-
-
-<!-- |   	|   	|   	|
-|:-:	|:-:	|:-:	|
-|![](/images/Album/NFR.jpg){:height="50%" width="50%"}|   ![](/images/Album/Melodrama.jpg){:height="50%" width="50%"}	|  ![](/images/Album/21.jpg){:height="50%" width="50%"} 	|
-|*Norman F____ Rockwell* 	|    *Melodrama*  	|     *21*	|
-|*Lana Del Rey*  	|    *Lorde* 	|    *Adele*  	| -->
-<!-- |![](/images/Album/19.jpg)|   ![](/images/Album/TUN.jpg )	|  ![](/images/Album/1989.jpg) 	|
+|![](/images/Album/19.jpg)|   ![](/images/Album/TUN.jpg )	|  ![](/images/Album/1989.jpg) 	|
 |*19* 	|    *Thank U, Next*  	|     *1989*	|
 |*Adele*  	|    *Ariana Grande* 	|    *Taylor Swift*  	|
 |![](/images/Album/BJ4.jpg)|   ![](/images/Album/BornThisWay.jpg )	|  ![](/images/Album/BTD.jpg) 	|
@@ -57,7 +50,7 @@ author_profile: true
 |*徐佳莹*  	|    *孙盛希* 	|    *徐佳莹*  	| -->
 <!-- ![](/images/Album/NFR.jpg "Norman F____ Rockwell - Lana Del Rey"){:height="20%" width="20%"}  &nbsp; &nbsp; &nbsp; &nbsp;  ![](/images/Album/Melodrama.jpg "Melodrama - Lorde"){:height="20%" width="20%"}  &nbsp; &nbsp; &nbsp; &nbsp;   ![](/images/Album/21.jpg "21 - Adele"){:height="20%" width="20%"} -->
 <!-- <br />Norman Fxxxxx Rockwell &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Melodrama &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 21
-<br />Lana Del Rey &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lorde &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Adele  -->
+<br />Lana Del Rey &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lorde &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Adele
 
 <!-- | [![](/images/Album/NFR.jpg){:height="20%" width="20%"}] | [![](/images/Album/Melodrama.jpg){:height="20%" width="20%"}] | [![](/images/Album/21.jpg){:height="20%" width="20%"}] |
 |:---:|:---:|:---:|
