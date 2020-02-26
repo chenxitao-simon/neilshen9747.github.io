@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-![](/images/Album/NFR.jpg){:height="20%" width="20%"}   ![](/images/Album/Melodrama.jpg){:height="20%" width="20%"}    ![](/images/Album/21.jpg){:height="20%" width="20%"}
+![](/images/Album/NFR.jpg){:height="20%" width="20%"#left}   ![](/images/Album/Melodrama.jpg){:height="20%" width="20%"#center}    ![](/images/Album/21.jpg){:height="20%" width="20%"#right}
 
 
 {% if author.googlescholar %}
