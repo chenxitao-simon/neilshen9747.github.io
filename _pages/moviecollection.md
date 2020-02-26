@@ -13,7 +13,7 @@ author_profile: true
 ![](/images/Movie/myfi.JPG){:height="33%" width="33%"} &nbsp; &nbsp;  ![](/images/Movie/rs.JPG){:height="33%" width="33%"}
 ![](/images/Movie/skggp.JPG){:height="33%" width="33%"} &nbsp; &nbsp;  ![](/images/Movie/sxastd.JPG){:height="33%" width="33%"}
 ![](/images/Movie/wrzx.JPG){:height="33%" width="33%"} &nbsp; &nbsp;  ![](/images/Movie/xc.JPG){:height="33%" width="33%"}
-![](/images/Movie/xfr.JPG){:height="33%" width="33%"} &nbsp; &nbsp;  ![](/images/Movie/xtjz.JPG){{:height="33%" width="33%"}
+![](/images/Movie/xfr.JPG){:height="33%" width="33%"} &nbsp; &nbsp;  ![](/images/Movie/xtjz.JPG){:height="33%" width="33%"}
 
 
 {% if author.googlescholar %}
