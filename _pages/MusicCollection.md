@@ -47,7 +47,8 @@ author_profile: true
 |*Adele*  	|    *Lana Del Rey* 	|    *苏打绿*  	|
 |![](/images/Album/XLX.jpg)|   ![](/images/Album/XYJ.jpg )	|  ![](/images/Album/Missing.jpg) 	|
 |*心里学* 	|    *希游记*  	|     *寻人启事*	|
-|*徐佳莹*  	|    *孙盛希* 	|    *徐佳莹*  	| -->
+|*徐佳莹*  	|    *孙盛希* 	|    *徐佳莹*  	|
+
 <!-- ![](/images/Album/NFR.jpg "Norman F____ Rockwell - Lana Del Rey"){:height="20%" width="20%"}  &nbsp; &nbsp; &nbsp; &nbsp;  ![](/images/Album/Melodrama.jpg "Melodrama - Lorde"){:height="20%" width="20%"}  &nbsp; &nbsp; &nbsp; &nbsp;   ![](/images/Album/21.jpg "21 - Adele"){:height="20%" width="20%"} -->
 <!-- <br />Norman Fxxxxx Rockwell &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Melodrama &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 21
 <br />Lana Del Rey &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lorde &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Adele
