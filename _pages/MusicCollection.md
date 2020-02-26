@@ -60,6 +60,9 @@ author_profile: true
 |![](/images/Album/2020226/wwc.jpg)|   ![](/images/Album/2020226/zskedy.jpg )	|  ![](/images/Album/2020226/mtgh.jpg) 	|
 |*未完成* 	|    *战神卡尔迪亚*  	|     *Tomorrow Will Be Fine - Single*	|
 |*孙燕姿*  	|    *陈珊妮* 	|    *苏打绿*  	|
+|![](/images/Album/2020226/A.jpg)|   ![](/images/Album/2020226/Juice.jpg )	|  ![](/images/Album/2020226/Rare.jpg) 	|
+|*A Brief Inquiry Into Online Relationships* 	|    *Juice*  	|     *Rare - Single*	|
+|*The 1975*  	|    *Lizzo* 	|    *Selena Gomez*  	|
 
 <!-- ![](/images/Album/NFR.jpg "Norman F____ Rockwell - Lana Del Rey"){:height="20%" width="20%"}  &nbsp; &nbsp; &nbsp; &nbsp;  ![](/images/Album/Melodrama.jpg "Melodrama - Lorde"){:height="20%" width="20%"}  &nbsp; &nbsp; &nbsp; &nbsp;   ![](/images/Album/21.jpg "21 - Adele"){:height="20%" width="20%"} -->
 <!-- <br />Norman Fxxxxx Rockwell &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Melodrama &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 21
