@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-![](/images/Album/Norman20%F_____g20%Rockwell!.jpg){:height="33%" width="33%"}   ![](/images/Album/Melodrama.jpg){:height="33%" width="33%"}    ![](/images/Album/21.jpg){:height="33%" width="33%"}
+![](/images/Album/NFR.jpg){:height="20%" width="20%"}   ![](/images/Album/Melodrama.jpg){:height="20%" width="20%"}    ![](/images/Album/21.jpg){:height="20%" width="20%"}
 
 
 {% if author.googlescholar %}
