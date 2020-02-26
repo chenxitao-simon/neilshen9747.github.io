@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Data Analytical Project"
+    url: /DataAnalyticalProject/
+
+  - title: "Business Case Study"
+    url: /BusinessCaseStudy/
 
   - title: "Music Collection"
     url: /MusicCollection/
 
   - title: "Movie Collection"
     url: /MovieCollection/
-
-  - title: "Blog Posts"
-    url: /year-archive/
 
   - title: "CV"
     url: /cv/

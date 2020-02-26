@@ -11,49 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Finance & Economics, Southwestern University of Finance and Economics, 2019
+* M.S. in Business Analytics, University of Rochester, 2020 (Expected)
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2019: Finance & Research Analyst Intern
+  * Jinke Holdings Group Co., Ltd.
+    * Identified 4 local top-notch companies for a $1.5 MM financing project by analyzing and visualizing financial data using python and conducting comparative analysis on company ownership structure and core technology and products to stimulate long-term cash flow.  
+    * Developed financial data retrieving model by leveraging python and hosted workshop sessions for new model to expedite data collection process for future analyses.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Summer 2017: Product Research Assistant Intern
+  * Industrial & Commercial Bank of China
+    * Introduced three key attributes for installment product by visualizing data point through tableau dashboard and conducting conjoint analysis and market simulation through R to upgrade products for better competitiveness.  
+    * Performed sentiment analysis by retrieving customer response data on social media and conducting natural language processing using python to validate conjoint analysis results.  
