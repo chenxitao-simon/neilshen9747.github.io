@@ -9,14 +9,16 @@ redirect_from:
 ---
 
 Welcome to my personal website! I am Ruiling Shen, you can also call me Neil. I am from Chongqing, China, also known as the *Mountain City*.  
-<br />![Chongqing](images/ChongQing.JPG"Chong Qing City")
+<br />![Chongqing](images/ChongQing.JPG)
 *Chongqing City*
-<br />I am currently a candidate of Master of Science in Business Analytics program at **Simon Business School, University of Rochester**, and right now in pursuit of a career as a data-driven decision maker. You can check my [Portfolio](https://neilshen9747.github.io/portfolio/), where I show all my data-related project work and case studies.
+
+I am currently a candidate of Master of Science in Business Analytics program at **Simon Business School, University of Rochester**, and right now in pursuit of a career as a data-driven decision maker. You can check my [Portfolio](https://neilshen9747.github.io/portfolio/), where I show all my data-related project work and case studies.
 
 Besides, I played volleyball for almost four years, and I was the Opposite Spiker of my university man's volleyball team.
 <br />![Volleyball](images/Volleyball.JPG)
 *2018 Chengdu University Volleyball Tournament*
-<br />I am also a music and movie lover, and here is my [music recommendation](https://neilshen9747.github.io/portfolio/MusicCollection) and my [movie recommendation](https://neilshen9747.github.io/portfolio/MovieCollection).
+
+I am also a music and movie lover, and here is my [music recommendation](https://neilshen9747.github.io/portfolio/MusicCollection) and my [movie recommendation](https://neilshen9747.github.io/portfolio/MovieCollection).
 
 Moreover, I like cooking for friends. Chongqing and Sichuan food are my speciality!
 <br />![Food](images/Food.JPG)
