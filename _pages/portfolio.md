@@ -19,7 +19,7 @@ My team conducted casual analysis on customer choice data by using multilogit ch
 
 ---
 [Estimating Car Demand - Casual Analysis on Sales Data](/pdf/PricingAnalyticsPJ1.pdf)
-![](/images/car.jpg)
+![](/images/PPJ1.jpeg)
 My team conducted casual analysis, including linear regression with fixed effect, linear regression with instrumental variable, to exploit the demand of car models. Check our analytics process using R.
 
 ---
