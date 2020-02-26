@@ -19,42 +19,42 @@ My team conducted casual analysis on customer choice data by using multilogit ch
 
 ---
 [Estimating Car Demand - Casual Analysis on Sales Data](/pdf/PricingAnalyticsPJ1.pdf)
-![](images/PriceAnalyticsPJ1.jpeg)
+![](/images/car.jpg)
 My team conducted casual analysis, including linear regression with fixed effect, linear regression with instrumental variable, to exploit the demand of car models. Check our analytics process using R.
 
 ---
 [Twitter Airline Customer Sentiment Analysis - Natural Language Processing Using Python NLTK Package](/pdf/Twitter%20-%20Natural%20Language%20Processing.pdf)
-![](images/twitter.png)
+![](/images/twitter.png)
 I predicted customer sentiment from Tweets by conducting natural language processing, including word-tokenization and TFIDF modeling, and leveraging machine learning algorithm, such as Naïve Bayes Classifier and Support Vector Machine, reaching 80% prediction precision. Check my python notebook.
 
 ---
 
 [911 Emergency Call - A Data Visualization Project Using Python](/911_descrptive_analysis.html)
-![](images/911%20Projct.png)
+![](/images/911%20Projct.png)
 
 ---
 
 ## Data-driven Business Case Study
 [Toy Horse Conjoint Experiment - Conjoint Analysis using R & Tableau](/pdf/ToyHorseCase.pdf)
-![](images/Toy%20Horse%20Case.png)
+![](/images/ToyHorse.png)
 In this case study, my team serves as analysts/modelers in a consulting company. We are in charge of analyzing a conjoint analysis conducted for a relatively small toy company to help them determine which new features should they launch.
 
 ---
 
 [Yogurt Flavor - TURF Analysis using R & Tableau](/pdf/YogurtCase.pdf)
-![](images/Yogurt%20Case.png)
+![](/images/Yogurt.png)
 In this case study, my team utilize R to conduct TURF analysis for a particular greek yogurt brand to determine which flavor should they launch next and then we use tableau to visualize our data.
 
 ---
 
 [Wine Retailer Case - Casual Effect Analysis using R & Tableau](/pdf/WineRetailerCase.pdf)
-![](images/Wine%20Case.png)
+![](/images/Wine.png)
 In this case study, my team utilize R to conduct linear regression, casual forest to determine which customer should we target for a email promotion campaign.
 
 ---
 
 [Beer Case - NPV & Demand Analysis](/pdf/BeerCase.pdf)
-![](images/Beer%20Case.png)
+![](/images/Beer.png)
 In this case study, my team analyze a certain brand of beer's potential of opening new market by utilizing NPV and demand analysis.
 
 
