@@ -48,6 +48,18 @@ author_profile: true
 |![](/images/Album/XLX.jpg)|   ![](/images/Album/XYJ.jpg )	|  ![](/images/Album/Missing.jpg) 	|
 |*心里学* 	|    *希游记*  	|     *寻人启事*	|
 |*徐佳莹*  	|    *孙盛希* 	|    *徐佳莹*  	|
+|![](/images/Album/2020226/AMIT2.jpg)|   ![](/images/Album/2020226/dm.jpg )	|  ![](/images/Album/2020226/kepler.jpg) 	|
+|*AMIT2* 	|    *大眠*  	|     *克卜勒*	|
+|*AMIT*  	|    *王心凌* 	|    *孙燕姿*  	|
+|![](/images/Album/2020226/mlkh.jpg)|   ![](/images/Album/2020226/mmsh.jpg )	|  ![](/images/Album/2020226/ng.jpg) 	|
+|*末路狂花* 	|    *美妙生活*  	|     *逆光*	|
+|*魏如萱*  	|    *林宥嘉* 	|    *孙燕姿*  	|
+|![](/images/Album/2020226/physical.jpg)|   ![](/images/Album/2020226/tgsdr.jpg )	|  ![](/images/Album/2020226/where.jpg) 	|
+|*Physical* 	|    *偷故事的人*  	|     *在哪里*	|
+|*Dua Lipa*  	|    *张惠妹* 	|    *魏如萱*  	|
+|![](/images/Album/2020226/wwc.jpg)|   ![](/images/Album/2020226/zskedy.jpg )	|  ![](/images/Album/2020226/mtgh.jpg) 	|
+|*未完成* 	|    *战神卡尔迪亚*  	|     *Tomorrow Will Be Fine - Single*	|
+|*孙燕姿*  	|    *陈珊妮* 	|    *苏打绿*  	|
 
 <!-- ![](/images/Album/NFR.jpg "Norman F____ Rockwell - Lana Del Rey"){:height="20%" width="20%"}  &nbsp; &nbsp; &nbsp; &nbsp;  ![](/images/Album/Melodrama.jpg "Melodrama - Lorde"){:height="20%" width="20%"}  &nbsp; &nbsp; &nbsp; &nbsp;   ![](/images/Album/21.jpg "21 - Adele"){:height="20%" width="20%"} -->
 <!-- <br />Norman Fxxxxx Rockwell &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Melodrama &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 21
