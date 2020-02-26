@@ -6,9 +6,7 @@ author_profile: true
 ---
 
 
-![](/images/Album/Norman20%F_____g20%Rockwell!.jpg)   ![](/images/Album/Melodrama.jpg)    ![](/images/Album/21.jpg)
-*Norman Fxxxxxx Rockwell*                             *Melodrama*                         *21
-*Lana Del Rey*                                        *Lorde*                             *Adele 
+![](/images/Album/Norman20%F_____g20%Rockwell!.jpg){:height="33%" width="33%"}   ![](/images/Album/Melodrama.jpg){:height="33%" width="33%"}    ![](/images/Album/21.jpg){:height="33%" width="33%"}
 
 
 {% if author.googlescholar %}
