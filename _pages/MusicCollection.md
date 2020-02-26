@@ -48,10 +48,10 @@ author_profile: true
 |![](/images/Album/XLX.jpg)|   ![](/images/Album/XYJ.jpg )	|  ![](/images/Album/Missing.jpg) 	|
 |*心里学* 	|    *希游记*  	|     *寻人启事*	|
 |*徐佳莹*  	|    *孙盛希* 	|    *徐佳莹*  	|
-|![](/images/Album/2020226/AMIT2.jpg)|   ![](/images/Album/2020226/dm.jpg )	|  ![](/images/Album/2020226/kepler.jpg) 	|
+|![](/images/Album/2020226/AMIT2.jpg)|   ![](/images/Album/2020226/dm.jpg )	|  ![](/images/Album/2020226/Kepler.jpg) 	|
 |*AMIT2* 	|    *大眠*  	|     *克卜勒*	|
 |*AMIT*  	|    *王心凌* 	|    *孙燕姿*  	|
-|![](/images/Album/2020226/mlkh.jpg)|   ![](/images/Album/2020226/mmsh.jpg )	|  ![](/images/Album/2020226/ng.jpg) 	|
+|![](/images/Album/2020226/mlkh.jpg)|   ![](/images/Album/2020226/mmsh.jpg )	|  ![](/images/Album/2020226/ng.jpg){:height="600px" width="600px"}	|
 |*末路狂花* 	|    *美妙生活*  	|     *逆光*	|
 |*魏如萱*  	|    *林宥嘉* 	|    *孙燕姿*  	|
 |![](/images/Album/2020226/physical.jpg)|   ![](/images/Album/2020226/tgsdr.jpg )	|  ![](/images/Album/2020226/where.jpg) 	|
