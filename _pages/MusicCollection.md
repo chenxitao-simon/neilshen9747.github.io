@@ -7,7 +7,7 @@ author_profile: true
 |  🤍 |  🖤	|  🎶 |
 |:-:	|:-:	|:-:	|
 | ![](/images/Album/NFR.jpg)  	|  ![](/images/Album/Melodrama.jpg) 	|  ![](/images/Album/21.jpg) 	|
-|  *Norman F____ Rockwell* 	|  *Melodrama* 	|  *21* 	|
+|  *Norman F____ Rockwell!* 	|  *Melodrama* 	|  *21* 	|
 |  *Lana Del Rey* 	|  *Lorde* 	| *Adele*  	|
 |![](/images/Album/19.jpg)|   ![](/images/Album/TUN.jpg )	|  ![](/images/Album/1989.jpg) 	|
 |*19* 	|    *Thank U, Next*  	|     *1989*	|
