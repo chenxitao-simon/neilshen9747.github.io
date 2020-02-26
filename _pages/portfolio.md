@@ -9,7 +9,7 @@ author_profile: true
 ---
 
 [Humana-Mays Health Analytics Case 2019 Competition - A Predictive Analysis Using Python](/Humana_May_Case_Competition.html)
-![](/images/humana-mays.png )
+![](/images/humana-mays.png)
 We predicted probability of long-term opioid use for 13,997 patients based on four-year medical records utilizing Python by conducting exploratory data analysis, data cleaning, feature engineering, and predictive modelling to enable Humana identify patients at risk for opioid overdoses and initiate intervention procedures, reaching prediction accuracy 87% and ranking in the 90th percentile of participants.
 
 ---
@@ -25,7 +25,7 @@ My team conducted casual analysis, including linear regression with fixed effect
 ---
 [Twitter Airline Customer Sentiment Analysis - Natural Language Processing Using Python NLTK Package](/pdf/Twitter%20-%20Natural%20Language%20Processing.pdf)
 ![](images/twitter.png)
-I predicted customer sentiment from Tweets by conducting natural language processing, including word-tokenization and TFIDF modelling, and leveraging machine learning algorithm, such as Naïve Bayes Classifier and Support Vector Machine, reaching 80% prediction precision. Check my python notebook.
+I predicted customer sentiment from Tweets by conducting natural language processing, including word-tokenization and TFIDF modeling, and leveraging machine learning algorithm, such as Naïve Bayes Classifier and Support Vector Machine, reaching 80% prediction precision. Check my python notebook.
 
 ---
 
