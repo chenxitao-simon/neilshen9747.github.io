@@ -18,7 +18,7 @@ Besides, I played volleyball for almost four years, and I was the Opposite Spike
 <br />![Volleyball](images/Volleyball.JPG)
 *2018 Chengdu University Volleyball Tournament*
 
-I am also a music and movie lover, and here is my [music recommendation](https://neilshen9747.github.io/portfolio/MusicCollection) and my [movie recommendation](https://neilshen9747.github.io/portfolio/MovieCollection).
+I am also a music and movie lover, and here is my [music recommendation](https://neilshen9747.github.io/portfolio/MusicCollection/) and my [movie recommendation](https://neilshen9747.github.io/portfolio/MovieCollection/).
 
 Moreover, I like cooking for friends. Chongqing and Sichuan food are my speciality!
 <br />![Food](images/Food.JPG)
